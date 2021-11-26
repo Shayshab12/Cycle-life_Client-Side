@@ -1,0 +1,6 @@
+@media only screen and (min-width: 600px) {
+    .addService ,.button{
+      width: 50%;
+      margin: 0 auto;
+    }
+  }

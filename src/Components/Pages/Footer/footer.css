@@ -1,0 +1,16 @@
+/* Footer Part */
+.fab {
+    width: 32px;
+    height: 32px;
+    background-color: #969BAB;
+    margin-right: 14px;
+    border-radius: 21px;
+    font-size: 20px;
+    
+    color: #fff;
+}
+
+.footer p{
+    color: white;
+    
+}
